@@ -3,3 +3,7 @@ console.log(hello world)
 console.log(hello world)
 
 alert('Hi hahaha');
+alert('Hi hahaha');
+alert('Hi hahaha');
+alert('Hi hahaha');
+alert('Hi hahaha');
